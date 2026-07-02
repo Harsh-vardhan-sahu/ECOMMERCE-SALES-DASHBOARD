@@ -154,6 +154,4 @@ This dashboard helps businesses:
 
 **Harshvardhan Sahu**
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
-
 If you found this project helpful, consider giving it a ⭐ on GitHub!
