@@ -25,7 +25,8 @@ This dashboard answers critical business questions such as:
 
 > *(Add your dashboard screenshot here)*
 
-![E-Commerce Sales Dashboard](Snapshot of Dasboard.png)
+![E-Commerce Sales Dashboard](ecommerce-dashboard.png)
+
 
 ---
 
