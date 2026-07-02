@@ -23,7 +23,6 @@ This dashboard answers critical business questions such as:
 
 ## 📈 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
 
 ![E-Commerce Sales Dashboard](ecommerce-dashboard.png)
 
